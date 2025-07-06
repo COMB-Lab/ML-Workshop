@@ -15,25 +15,25 @@ This repository provides a progressive introduction to core machine learning tec
 
 ## Lecture Summaries
 
-### Lecture 1 – Linear Regression
+#### Lecture 1 – Linear Regression
 Introduction to modeling continuous data using least squares and gradient descent.
 
-### Lecture 2 – Logistic Regression
+#### Lecture 2 – Logistic Regression
 Classification using the sigmoid function and maximum likelihood estimation.
 
-### Lecture 3 – Neural Networks
+#### Lecture 3 – Neural Networks
 Concepts of perceptrons, activation functions, loss computation, and backpropagation.
 
-### Lecture 4 – PyTorch Neural Networks
+#### Lecture 4 – PyTorch Neural Networks
 Hands-on coding of neural networks using PyTorch’s `torch.nn` module.
 
-### Lecture 5 – Autoencoders
+#### Lecture 5 – Autoencoders
 A look at unsupervised learning for dimensionality reduction using encoder-decoder architectures.
 
-### Lecture 6 – Variational Autoencoders (VAEs)
+#### Lecture 6 – Variational Autoencoders (VAEs)
 Learning probabilistic latent spaces using the VAE framework.
 
-### Lecture 7 – Generative Adversarial Networks (GANs)
+#### Lecture 7 – Generative Adversarial Networks (GANs)
 Introduction to GANs and their applications in data generation using adversarial training.
 
 ---
@@ -70,7 +70,7 @@ ML-Workshop/
 
 ```
 
-
+---
 ## Creators
 
 - **Nikhil Dhiman** — [LinkedIn](https://www.linkedin.com/in/nikhil-dhiman/) | [GitHub](https://github.com/NikhilDhiman) | [Google Scholar](https://scholar.google.com/citations?user=o0vfQoAAAAAJ&hl=en&authuser=1)
